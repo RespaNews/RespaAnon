@@ -1,9 +1,3 @@
-/*
-* @R respa.news
-* @R t.me/RespaNews
-* @R License: MIT license
-*/
-
 import { Telegraf, Markup } from "telegraf";
 import dotenv from "dotenv";
 
